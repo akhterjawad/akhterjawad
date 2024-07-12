@@ -3,16 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhterjawad" alt="akhterjawad" /></a> </p>
 
-- 🔭 I’m currently working on [website with bootstrap](https://akhterjawad.github.io/Bootstrap-website/)
+- 🔭 I’m currently working on [PriceOye Clone](https://github.com/akhterjawad/First-Eid-Project)
 
-- 🌱 I’m currently learning **about back end**
+- 🌱 I’m currently learning **Firebse**
 
 - 📫 How to reach me **akhterjawad566@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akhterjawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhterjawad" height="30" width="40" /></a>
-<a href="https://fb.com/akhterjawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akhterjawad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-jawad-1814772a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhterjawad" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nadeem.akhter.5648137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akhterjawad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
