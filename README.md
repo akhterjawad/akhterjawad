@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PriceOye Clone](https://github.com/akhterjawad/First-Eid-Project)
 
-- 🌱 I’m currently learning **Firebse**
+- 🌱 I’m currently learning **FireBase**
 
 - 📫 How to reach me **akhterjawad566@gmail.com**
 
