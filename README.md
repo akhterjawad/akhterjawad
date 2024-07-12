@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm muhammad jawad</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Jawad</h1>
+<h3 align="center">A Fervent frontend developer from PK</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhterjawad" alt="akhterjawad" /></a> </p>
 
